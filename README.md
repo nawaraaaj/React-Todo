@@ -1,5 +1,6 @@
 # 📝 React Todo App
 
+Hosted at https://nawa-todo-react.vercel.app/
 A modern and minimal **Todo List** app built with **React** and **Redux Toolkit**. Designed with a clean, responsive UI and smooth interactions — perfect for tracking your daily tasks efficiently.
 
 ## 🚀 Features
